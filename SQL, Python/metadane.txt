@@ -1,0 +1,46 @@
+W folderze znajdują się zadania i projekt z modelowania hurtowni danych. Wykorzystywane są w nich: proceduralny język SQL, SQL dla OLAP, język Python z biblioteką Pandas oraz sieci Bayesowskie. 
+Wykorzystywane narzędzia: Oracle SQL Developer, Jupyter Notebook, GeNIe.
+
+Zadanie 1
+
+dane.txt - skrypt wczytywania danych
+skrypt.txt - skrypt zadania 
+opis.pdf - opis skryptu, przykłady użycia
+
+Zadanie zawiera:
+- wczytywanie danych z pliku
+- tworzenie tabel i odpowiadających im kluczy
+- tworzenie sekwencji i wyzwalaczy
+- tworzenie pakietów, funkcji i prodedur
+
+Dane: https://www.kaggle.com/niekvanderzwaag/bookingcom-job-listings
+
+
+Zadanie 2
+
+diagram.jpg - projekt modelu danych (konstelacja faktów)
+
+Zadanie zawiera:
+Projekt modelu danych, na podstawie którego można byłoby dokonywać następujących analiz:
+a) wartość sprzedaży na poziomie dni dla danego produktu w kolejnych państwach
+b) wydatki na reklamę na dany produkt w danym województwie w kolejnych miesiącach
+c) średni okres trwania reklamy na produkt w kolejnych miesiącach na poziomie sklepu
+d) liczba promocji oferowanych przez sklep na dany typ produktu w kolejnych miesiącach
+
+
+Zadanie 3
+
+skrypt.ipynb - skrypt zadania z opsiami
+
+Zadanie zawiera integrację danych z dwóch plików csv. 
+
+
+Projekt
+
+skrypt.ipynb - skrypt projektu
+raport.pdf - opis projektu, skryptu
+
+Projekt zawiera: 
+- porządkowanie danych za pomocą Pythona pod sieć Bayesowską 
+- tworzenie różnych sieci Bayesowskich
+- analiza otrzymanych danych
