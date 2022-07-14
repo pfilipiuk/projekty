@@ -1,1 +1,1967 @@
+SET DEFINE OFF
+
+CREATE TABLE TEMP1 ( JOB_TITLE VARCHAR2(128),
+LOCATION VARCHAR2(128),
+TEAM VARCHAR2(128));
+
+
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Endpoints Engineer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writer - B2B', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Treasury Risk Specialist', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Insurance - Policy Admin', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Manchester', 'Manchester, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Android Developer - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Nairobi (Amharic Speaker)', 'Nairobi, Kenya', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Nairobi (French Speaker)', 'Nairobi, Kenya', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Client Manager, FinTech', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Scientist - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Client Manager, FinTech', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Scientist - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Analyst - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Sochi', 'Sochi, Russia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('User Research & Insights Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Strategy Manager APAC Growth Markets', 'Amsterdam, Netherlands and 1 more', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Business Analyst, FinTech', 'London, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Developer (Java) - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Sales Advisor - French Speaker', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager - Data Enablement', 'London, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Project Manager - Finance', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Content Marketing Specialist - B2B', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Accommodation Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('B2B Partner Experience Insights Senior Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Fullstack Developer - Marketing Technology', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Treasury Analyst - Investments', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Estonian', 'Tallinn, Estonia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Treasury Analyst - Front Office', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Marketing Specialist', 'Manchester, United Kingdom', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Commercial Director, Insurance', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Change Management Lead', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Full Stack Developer - Attractions', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer - Attractions', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Ukrainian', 'Kiev, Ukraine', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Osaka', 'Osaka, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Montreal', 'Montreal, QC, Canada', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Arabic', 'Dubai, United Arab Emirates', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Tech Product Manager - Marketing Rewards Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technology Recruiter - Bucharest', 'Bucharest, Romania', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Commercial Excellence Manager - Central Partner Services', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Athens', 'Athens, Greece', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Japanese', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - New Zealand', 'Auckland, New Zealand', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Localization Editor (Quality) | American English', 'New York, NY, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Accommodations', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Senior Program Manager - Cares & Community', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst - Accommodations', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('GIS Team Lead - Content Agency', 'Barcelona, Spain', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer - Cloud Enablement - Core Infrastructure', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Translator - Hindi (Language Specialist)', 'Mumbai, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Leader IT support', 'Bangalore, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Head of Human Resources/ HR Leader', 'Bangalore, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Austin', 'Austin, TX, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Apps', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Fraud Analyst', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Product Manager - Insurance', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Leader - Centre of Excellence', 'Bangalore, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Program Manager', 'Bangalore, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Head of Finance and Accounting', 'Bangalore, India', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Localization Editor - American English', 'New York, NY, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - ADS/Application Services', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - ADS/MySQL', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Quality Specialist- Flights', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Lead - Privacy', 'Bucharest, Romania', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Search Platform - Discover and Search', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - FinTech', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist Insights - Trip Foundations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Cross-sell Web', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('(Senior) Product Manager - Cross-sell Web', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Financial Analyst - Marketing', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruitment Coordinator', 'Tel Aviv, Israel', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr Legal Counsel - Fintech', 'Amsterdam, Netherlands', 'Legal & Public Affairs');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Partnerships Manager, FinTech', 'London, United Kingdom', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr Legal Counsel - Product', 'Amsterdam, Netherlands', 'Legal & Public Affairs');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Global Benefits Analyst', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writer', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Product Manager, FinTech - Partner Payments', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Designer - FinTech', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer - Attractions', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('App UX Designer', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Program Manager - Marketing, Privacy & Risk', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Graduate Software Developer - Accommodations - September 2022', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Change Manager - Accommodations', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Webcore UX - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Reporting Analyst - PPC', 'Manchester, United Kingdom', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Treasury & Financial Services Business Partner - Flights', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Account Manager - Tel Aviv', 'Tel Aviv, Israel', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director Public Affairs, Americas', 'Washington, DC, United States', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Lead Analytics - Meta Search', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Development Executive - Japan', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Development Manager - Japan', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Taipei', 'Taipei City, Taiwan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Sales Advisor - English Speaker', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Sales Advisor - German Speaker', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Sales Advisor - Italian Speaker', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('CS Internal Control Quality Team Leader', 'Amsterdam, Netherlands', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (Turkish)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (Korean)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (French)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (English)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (Dutch)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (Danish)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Sales Advisor - Spanish Speaker', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (Czech)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor - Insurance (French)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Digital Partner Experience', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor - Insurance (Swedish)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor - Insurance (German)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor - Insurance (Dutch)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Customer Relations Advisor (German)', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Payroll Specialist', 'New York, NY, United States', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Barcelona', 'Barcelona, Spain', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Cyber Security Incident Response Analyst', 'Bucharest, Romania', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Manager - Marketing Messaging', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - PIV/InfraSec', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Key Account Manager - Korea', 'Seoul, South Korea', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Identity UX', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter - Customer Service', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Office Administrator', 'Paris, France', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Bratislava (Maternity Cover)', 'Bratislava, Slovakia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - Accommodations / Partner Services', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - Marketing Partnerships', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Operational Excellence Project Lead - Partnerships', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Commercial Excellence Specialist - Partnerships', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Director of Software Architecture', 'London, United Kingdom', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior HR Business Partner (FinTech)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager, Strategy & Operations - Horizontal Product', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr Project Manager - Business Ops', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Booking for Business Data Analyst', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Key Account Manager Global Corporate Partnerships', 'Amsterdam, Netherlands and 2 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Executive Business Partner (People)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Johannesburg (Portuguese Speaker)', 'Johannesburg, South Africa', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Connectivity Support Executive', 'Sydney, Australia and 1 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Email Marketing Designer', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Designer', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Marketing Messaging', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director CS Product', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director CS Platform', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer', 'Shanghai, China', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Front End Developer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('GIS Specialist', 'Barcelona, Spain', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Program Manager, Central Tech', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Change Manager - Central Tech', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Development Manager', 'Shanghai, China', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Horizontal Marketing Services', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principle Account Manager', 'Manchester, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst - Central Tech Strategy & Business Operations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Office Manager (6 Month Contract)', 'Singapore, Singapore and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager, Strategy & Operations - Trips Rides', 'London, United Kingdom and 1 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineering Manager - Data & ML Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner (Central Tech)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('B2B Marketing Specialist for Booking.com for Business', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Engineering Manager - Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Program Manager, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Business Operations', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Specialist, Community Content', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - Service Directory', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Engineer - Data Engineering Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Public Transport', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Android Developer - Public Transport', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Analyst - Rides, Manchester', 'Manchester, United Kingdom', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Rewards and Incentives', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager Data and Reporting Services - People Services', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Site Reliability Engineering', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer - Partnerships', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('CS Compliance, Risk and Control Team Leader', 'Amsterdam, Netherlands', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager Threat Management', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner', 'Austin, TX, United States and 7 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager Environmental and Social Impact', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Manager Connectivity Professional Services', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Senior Operational Excellence Specialist - Content Agency', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Email Marketing Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Developer - .Net converting to Java', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('B2B Content Marketing Specialist for Booking.com for Business', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Novosibirsk', 'Novosibirsk, Russia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Developer Tooling', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Developer Tooling', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer', 'Tel Aviv, Israel', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Revenue Integrity Manager', 'Manchester, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Dublin', 'Dublin, Ireland', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - Horizontal Marketing Services', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Application Security Engineer', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Product Manager - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Product Manager Mobile Apps - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Partner Fraud', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('SEO Strategist', 'Amsterdam, Netherlands and 1 more', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer (Insurance team)', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer', 'Singapore, Singapore and 1 more', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Crisis Management Senior Specialist - Group Resilience', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Program Manager - Content Agency', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - Sustainability', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst - ASO/UA', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer Technical Operations- Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Mobile Apps', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Kiev - Temporary', 'Kiev, Ukraine', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Romanian', 'Bucharest, Romania', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Czech', 'Prague, Czech Republic', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer', 'Amsterdam, Netherlands and 2 more', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Controller - Corporate Accounting Team', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Android Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager Machine Learning - Customer Centric Data Track - Cancellations', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Engineering Manager - Ranking', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr Legal Counsel - Privacy', 'Amsterdam, Netherlands', 'Legal & Public Affairs');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Mexico City', 'Mexico City, Mexico', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writer - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Designer - Flights', 'Amsterdam, Netherlands and 1 more', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Reporting Analyst - Horizontal Marketing Services', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager - Customer Service Tech - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer - Trip Foundations', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Las Palmas', 'Las Palmas de Gran Canaria, Spain', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Project Manager - Creative Production', 'Cambridge, United Kingdom', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Athens', 'Athens, Greece', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Credit Controller - Oceania Market', 'Singapore, Singapore and 1 more', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Internal Communications Lead - Partner Services (Temporary)', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Internal Communications Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Internal Recruiter - Central Tech', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Engineer - Data Engineering Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technology Product Manager, FinTech - Reliability & Quality Engineering', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Sydney', 'Sydney, Australia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Quality Engineer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Lead - French', 'Paris, France', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Budapest', 'Budapest, Hungary', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr. Banking Specialist', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Marketing Technology', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Marketing Messaging', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Forecasting & Capacity Planning Analyst', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PR Manager - Spain', 'Barcelona, Spain', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PR Manager - France & Belgium', 'Paris, France', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PR Manager - Germany & Switzerland', 'Berlin, Germany', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Designer - Attractions Product Teams', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - Trips', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Front End Developer - Multi-Product', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director Legal Trips - Product & Commercial', 'Manchester, United Kingdom', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Employment Tax Manager', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Full Stack Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Java Developer - Trip Foundations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Fullstack Developer - Marketing Technology', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Java Developer (Insurance team)', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist Insights - App Marketing', 'Amsterdam, Netherlands and 1 more', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('12 Month Contract Recruiter - Customer Service', 'Manchester, United Kingdom', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Product Manager - Booking Design System', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('VP Product Accommodations', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Director Financial Systems', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Engineering - Insurance', 'Amsterdam, Netherlands and 2 more', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Quality Engineer-Accommodations, Enable Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Valencia', 'Valencia, Spain', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner - Japan', 'Tokyo, Japan', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Engineer (SQL)', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Product Manager - Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Product Manager - Organic Marketing', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Architect - Core Platforms', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Specialist (Workday Extend)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Specialist (Service Now)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Internal Communications Specialist - Content', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Seoul', 'Seoul, South Korea', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Sydney (1 Year Fixed Term Contract)', 'Sydney, Australia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Coordinator - Strategic Projects (Talent)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Analyst - ServiceNow GRC solutions', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Program Manager - Global Security and Safety', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager - Privacy Processes', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Design Manager - Flights', 'Amsterdam, Netherlands and 1 more', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer - Attractions', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Operations Coordinator', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('SAP FICA Specialist, FinTech', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager - Trips Multi-Product Experience', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Writer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Product Manager - Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Engineer', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Specialist People Operations (1 Year Contract)', 'Singapore, Singapore and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Machine Learning Scientist, FinTech', 'London, United Kingdom', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Android Developer - Public Transport', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer- Security (Application Security)', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Trip Foundations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Engineering - Fintech Foundations', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Flights', 'Amsterdam, Netherlands and 1 more', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Designer - Trips Design Foundations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Designer - CXM', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - API Gateway', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - API Gateway', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Solutions Architect - Insurance', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Manager - Data Governance & Modernization', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Governance Security & Fraud', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior iOS Developer - Public Transport', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Real Estate & Workspace Services Senior Project Manager', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Insights Specialist', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Engineer- Accommodation Data Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Quality Engineering Manager, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer Observability- Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer Observability - Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Developer Experience', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('VP Finance (FP&A)', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Compensation & Benefits Program Manager', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Nice', 'Nice, France', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Machine Learning Engineer - Content Agency', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Developer Experience', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Insurance Apps', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Privacy Analyst', 'Bucharest, Romania', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Attractions Catalog & Availability', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Platform Engineering', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Platform Engineering', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer Technical Operations- Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Marketing Analyst', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Security Engineer - Detection & Response', 'Bucharest, Romania', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Application Data Services (Core Platforms)', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Application Data Services (Core Platforms)', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - FinTech (Payments)', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Voice Operations Engineer - ITS', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Corporate Network', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Core Infrastructure - Fleet Management', 'Seattle, WA, United States', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer Observability -Technical Operations', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer Products Performance & Reliability - Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Researcher', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Insurance Analyst', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - Trips', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('VP Core Platforms', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Account Manager - Nice', 'Nice, France', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Accommodations - Segments', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager -Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Finance Analyst, FP&A - Group & Finance', 'Manchester, United Kingdom', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Director, Americas', 'New York, NY, United States and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager - Trips, Multi-Product', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Product DMLP', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Employee Experience Lead - Talent', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Contingent Workforce Specialist', 'Amsterdam, Netherlands and 3 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner (Accommodations Tech)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Research Manager - Product Experience - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Account Manager - Partnerships', 'Singapore, Singapore and 1 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr. Account Manager Strategic Partnerships', 'Seattle, WA, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager - Insurance', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior HR Business Partner (Central Partner Services)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner (Accommodations Product Experience & Customer Insights)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - San Juan - French speaker', 'San Juan, Puerto Rico', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Engineering DMLP', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Recruiter', 'Tokyo, Japan', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter (Commercial)', 'Singapore, Singapore and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Recruiter - Tech & Product (Trips)', 'Manchester, United Kingdom', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr. Account Manager Strategic Partnerships', 'New York, NY, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Apps', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Florence', 'Florence, Italy', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Commercial Support Executive - Global Accounts EMEA', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Specialist Web Analytics', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Corporate Compliance & Integrity', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Engineer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Lead Content Agency Operations', 'Singapore, Singapore and 1 more', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Team Lead Content Agency Operations', 'Manila, Philippines', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Android Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior iOS Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Multi-Product', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Application Specialist (Recruitment)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writing Manager - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PhD Machine Learning Research Intern', 'Tel Aviv, Israel', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter ( Marketing )', 'Amsterdam, Netherlands and 2 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Commercial Recruiter', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Commercial Recruiter', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer - Trip Foundations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Writer - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Programme Manager', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Partnerships (Multiple locations)', 'Bordeaux, France and 5 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer, Accommodations-Enable Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior HR Manager', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Analyst - Talent Acquisition', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Account Manager - Korea', 'Seoul, South Korea', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Business Controller', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Tokyo', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Outbound Executive - Japan', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Copywriter - Marketing', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Reporting Analyst, Commercial Operations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Trips Data Engineering', 'London, United Kingdom and 1 more', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Edinburgh', 'Edinburgh, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Procurement Analyst', 'Bucharest, Romania', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Security Product Manager - Trust & Safety', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Operations and Product Support Executive', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Attractions Mobile Apps', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Business Partner (Strategy, FP&A, and Treasury)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PMO Manager - People (HR)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Regional Finance Manager', 'Bucharest, Romania', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('PMO Senior Analyst - People (HR)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager - B2B Distribution', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Program Manager, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Melbourne', 'Melbourne, Australia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writer - Attractions', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr Legal Counsel - Accommodation Partners', 'Amsterdam, Netherlands', 'Legal & Public Affairs');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - New York', 'New York, NY, United States', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Credit Controller - Japan Market', 'Singapore, Singapore and 1 more', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Sydney', 'Sydney, Australia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Workday Integration Specialist (HR)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Workday Integration Specialist', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager, FinTech', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writing Manager - Trips', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Front End Developer - China Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Android Developer - China Tech((1-3 years)', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Korean', 'Seoul, South Korea', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Bahasa Indonesia', 'Jakarta, Indonesia', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technology Product Manager - ADS', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - Design System', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer (1-3yrs) - China Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Hong Kong', 'Hong Kong, Hong Kong and 1 more', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - China Tech(1-3 years)', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior PHP Developer (Car Rental Experience>Manage & Support>BMS)', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Designer', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Machine Learning Scientist - Safety', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Agile Coach', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sales Recruiter', 'Amsterdam, Netherlands and 2 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Commercial Recruiter', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Back-End Developer - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Supply Senior Account Manager - Partner Services', 'Tokyo, Japan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Backend Developer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Accommodations - PowerMarketer', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Network Security Engineer', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Designer - Marketing - Partnerships', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Saint Petersburg', 'Saint Petersburg, Russia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Director CS Platform', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Director Service Experience Design', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Program Manager - Servicemesh', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Controller Technical Accounting', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Operational Excellence Analyst', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Test Engineer - Data', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior iOS Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Recruiter - Tech Marketing', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Full Stack Developer, FinTech - Wallet and Rewards', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - People (HR)', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technology Product Manager - Identity Data Management', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Program Manager, Accommodations', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager, App Core Experience - Mobile', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Digital Content Marketing Manager', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruitment Manager - People', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Engineer - Customer Insights - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Madrid (Temporary)', 'Madrid, Spain', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Director Horizontal Services', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Design Manager - Core Experience', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Manager - Content Intelligence', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Identity & Authentication Engineer', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter - Tech Marketing', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Agile Coach - Accommodations', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - China Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Bristol', 'Bristol, United Kingdom', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Front End Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Developer, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Endpoints Engineer - Windows', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Email Marketing Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager, FinTech', 'London, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Front End Developer - Flights', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager, FinTech', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Engineering Manager - Accommodations - SRE', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Project Manager - FinTech', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Accommodation Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Agile Coach - Accomodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Network Engineer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Program Manager - IT Services', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Service Integration Owner', 'Amsterdam, Netherlands', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Technical Program Manager - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Data & ML Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Marketing Manager - Connectivity', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Data & ML Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager - Security & Fraud', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Operations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Backend Developer - AdTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Krakow', 'Krakow, Poland', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Manager: L&D Program Management', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Manager - Customer Insights - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Partner Solutions Architect - Hotel Chains', 'Atlanta, GA, United States and 5 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal UX Writer - UX Writing and Content Design - Accommodations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Financial Analyst - Anaplan Model Builder', 'Manchester, United Kingdom', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Full Stack Developer - Customer Platform Team- Accommodation Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Technology Product Manager - FinOps', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Search & Match - Accommodations', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Frankfurt (m / f / d)', 'Frankfurt, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Internal Communications Lead', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist', 'Tel Aviv, Israel', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Sr. Account Manager - Natal (Team Leader)', 'Natal, Brazil', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Head of Competition & Consumer Law', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager - Core Infrastructure (TechOps)', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Insurance - Front-End', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Rewards & Incentives', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior SAP Basis Administrator, FinTech', 'Amsterdam, Netherlands', 'IT Services');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Designer', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Program Manager - Cloud', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Tech Recruiter - Central Tech', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Tech Recruiter - Accommodations Tech', 'Amsterdam, Netherlands and 2 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global WFM System Support Specialist', 'Amsterdam, Netherlands', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Technology - Plan, Manage & Help', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist Insights - Digital Media', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Attractions', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Specialist People Systems - Reporting', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer', 'Manchester, United Kingdom', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Technology - Partner Tech', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Sourcer', 'Shanghai, China', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Recruiter - Tech', 'Shanghai, China', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Language Specialist - Russian', 'Moscow, Russia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior iOS Developer - Flights', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Munich (m / f / d)', 'Munich, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Junior Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Berlin (m/f/d)', 'Berlin, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Sochi', 'Sochi, Russia', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Accommodations - Product Experience (Mobile/iOS)', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst-China', 'Shanghai, China', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager - Accommodations - Segments', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Change Manager', 'Amsterdam, Netherlands', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter - Technology', 'Amsterdam, Netherlands and 4 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Developer - Core Infrastructure - Developer Experience', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Mobile Engineering Manager - Rides', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist Insights - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Credit Controller - German Speakers', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Designer - Trip Foundations', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Writer - Flights', 'Amsterdam, Netherlands and 1 more', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Technology - Web Core', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Recruiter - Tech & Product (Trips)', 'London, United Kingdom', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Order Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior People Recruiter', 'Amsterdam, Netherlands and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager of Data Engineering - Partner Services Business Insights', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager Data Science Insights - Flights', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technology Product Manager - Accommodations - Selection + Supply', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Email Marketing Designer', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Tech Product Manager - Marketing Messaging', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Manager Data Science Insights - Pricing - Accommodations', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Program Manager - Machine Learning', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Research Operations Specialist', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Technical Program Manager - Privacy', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Full Stack Developer - Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Architect Accommodations', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager, FinTech - Billing Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Leadership Development Programs Manager', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Talent Sourcer', 'Manchester, United Kingdom', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Account Manager - Casablanca', 'Casablanca, Morocco', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Accommodation Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Director of Technology - Attractions', 'Amsterdam, Netherlands', 'Leadership');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Java Developer, Rides', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer, Rides (Taxis)', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('SEO Analyst', 'Manchester, United Kingdom', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('ServiceNow HRIS Specialist', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Test Engineer', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Partner IAM', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Front End Developer', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Product Manager, Marketing Data', 'Manchester, United Kingdom', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer', 'Singapore, Singapore and 1 more', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Trips', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - App team - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Backend Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Software Developer - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Writing Manager - Marketing', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer, FinTech-Customer Payments', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist, Payments', 'Amsterdam, Netherlands', 'Finance');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior UX Copywriter - Flights', 'Amsterdam, Netherlands', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Enterprise Applications', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Outbound Executive - Taipei', 'Taipei City, Taiwan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager Recommendations Platform', 'Tel Aviv, Israel', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer - Trip Foundations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Taipei', 'Taipei City, Taiwan', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Fullstack Developer - Messaging', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Paris', 'Paris, France', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Security and Fraud', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineering Manager - Core Infrastructure', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Analyst - Talent Acquisition', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer, FinTech-Regulatory Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('UX Designer - China Tech', 'Shanghai, China', 'Design & User Experience');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer - Data & Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Developer - Accommodations Tech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager, FinTech - Customer Payments', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Marketing Manager - Accommodations - Segments, Engagement, Selection', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Software Developer - Accommodation Technology', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Internal Communications Specialist', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Recruiter - Accommodations Tech', 'Amsterdam, Netherlands and 2 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Flights', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Recruiter - Tech & Product (Trips)', 'London, United Kingdom and 1 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Group Product Manager, FinTech - RegTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Trip Foundations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Freelance Translator - Dutch', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Global Compensation Analyst', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('HR Solutions Product Lead (Employee Experience)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Machine Learning Scientist - Marketing PPC', 'Amsterdam, Netherlands', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Warsaw', 'Warsaw, Poland', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Scientist Insights-China Tech', 'Shanghai, China', 'Data Science & Analytics');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Developer - Insurance', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend (Node.js) Developer - App Framework', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Backend Developer, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - Identity', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer - Identity', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Backend Developer - Organic Marketing', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Program Manager Marketing Automation', 'Amsterdam, Netherlands', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Engineering Manager (Car Rental - Merchandising and Marketing)', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Machine Learning Engineer - Machine Learning Platform', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Berlin (m / f / d)', 'Berlin, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Product Manager - Trip Distribution Platform', 'Amsterdam, Netherlands', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Tech Recruiter - FinTech', 'Amsterdam, Netherlands and 2 more', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Innsbruck (Permanent)', 'Innsbruck, Austria', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Technical Program Manager - Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Düsseldorf (m/f/d)', 'Düsseldorf, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Rewards and Incentives', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Backend Developer - Messaging', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Full Stack Developer, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Flights', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer, FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Freelance Translator - Korean', 'Seoul, South Korea', 'Marketing & Communications');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('DevSecOps Engineer - Data Security', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('iOS Developer - Rides', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer', 'Tel Aviv, Israel', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Change and Implementation Specialist', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Security Analyst', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Java Developer - Flights', 'London, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer - Flights', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Munich (m/f/d)', 'Munich, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Hamburg (m/f/d)', 'Hamburg, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Big Data', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Back End Developer', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Back End Developer', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Data Engineer - Customer Insights- Accommodations', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Austria (Permanent)', 'Vienna, Austria', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - China Tech', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - Order Platform', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Manager - Hamburg (m / f / d)', 'Hamburg, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Application Specialist (Absence and Time Tracking)', 'Amsterdam, Netherlands', 'People');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('GL Accountant - Corporate Accounting', 'Amsterdam, Netherlands', 'Finance & Legal');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Android Developer - China', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Data Engineer - FinTech', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer - Partner Fraud', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Fullstack Developer - Partnerships', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Lead Developer - Core Infrastructure', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Site Reliability Engineer - Flights', 'Amsterdam, Netherlands and 2 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Software Developer', 'Shanghai, China', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive (m/f/d) - Düsseldorf', 'Düsseldorf, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive (m/f/d) - Frankfurt', 'Frankfurt, Germany', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Network Engineer - Core Platform', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Account Executive - Shanghai', 'Shanghai, China', 'Business Development & Support');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - Core Infrastructure', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Project Manager - Operational Excellence', 'Manchester, United Kingdom', 'Customer Service');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Product Manager', 'Shanghai, China', 'Product');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer - Core Infrastructure', 'Amsterdam, Netherlands', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Site Reliability Engineer - Core Infrastructure - Fleet Management', 'Seattle, WA, United States and 1 more', 'Security & Infrastructure');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Engineering Manager - PPC - Performance Marketing', 'Amsterdam, Netherlands', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Network Engineer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Java Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Software Developer - Horizontal Business Services - Java / Cassandra', 'Amsterdam, Netherlands and 1 more', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Front End Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Technical Programme Manager', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Senior Java Developer', 'Manchester, United Kingdom', 'Engineering');
+
+INSERT INTO TEMP1 (JOB_TITLE, LOCATION, TEAM) 
+VALUES ('Principal Developer, FinTech', 'Amsterdam, Netherlands', 'Engineering');
 
