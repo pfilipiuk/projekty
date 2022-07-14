@@ -1,7 +1,3 @@
-------INSERTING DATA-----
-
-SET DEFINE OFF
-
 -----TABLES-----
 
 CREATE TABLE TEAM
