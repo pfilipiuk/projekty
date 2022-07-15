@@ -1,0 +1,8 @@
+W folderze znajdują się programy wykorzystujące programowanie obiektowe w Javie.
+
+Zadanie 1
+Program losuje 4 figury (koło lub kwadrat), oblicza ich pole, następnie przesuwa o wektor i skaluje. Korzysta z klasy wirtaulnej oraz metod wirtualnych.
+
+Zadanie 2
+Program wczytuje z pliku osoby z informacjami: imię, nazwisko, wiek, skuteczność. Na tej podstawie wybiera osobę/y, która równocześnie: ma imię dłuższe niż 3 litery, 
+ma nazwisko kończące się na "ski" oraz ma największą skuteczność.
